@@ -1,5 +1,11 @@
-# Web Challenges
+# Welcome to my page
 
-In this repository you will share your challenges.
+I'm Lukas from Hamburg 👾
 
-Please refer to the instructions in your course repository to know more about the workflow.
+<img src="https://images1.wionews.com/images/wion/900x1600/2023/12/18/1702913723179_Untitled.jpg" width="200">
+
+- nemo
+- snorkeling
+- food poisoning
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100">
