@@ -14,4 +14,4 @@ Until recently, I was living in Taiwan, where I worked as a radio host at a nati
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100">
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
