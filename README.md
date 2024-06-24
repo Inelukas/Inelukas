@@ -9,4 +9,4 @@ I'm Lukas from Germany! Nice to meet you guys.
 - reading books, playing games or polishing my language skills in my free time ✨
 - one of the few Germans who don't like alcohol and soccer 😎
 
-<img src="https://media.tenor.com/gexfZzl4ZRsAAAAi/maxwell-cat.gif" width="300">
+<img src="https://media.tenor.com/gexfZzl4ZRsAAAAi/maxwell-cat.gif" width="200">
