@@ -13,3 +13,5 @@ Until recently, I was living in Taiwan, where I worked as a radio host at a nati
 - one of the few Germans who don't like alcohol and soccer 😎
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
