@@ -5,6 +5,10 @@ Hi, I'm Lukas from Germany! Nice to meet you all.
 Until recently, I was living in Taiwan, where I worked as a radio host at a national broadcaster. Don't ask me why. xD
 
 ---
+
+My past projects: I've been learning basic Python since the beginning of the year with a course on udemy, and programmed simple games like TicTacToe, Pong, Snake, and Black Jack.
+
+---
 <img src="https://images1.wionews.com/images/wion/900x1600/2023/12/18/1702913723179_Untitled.jpg" width="150"> <img src="https://media.tenor.com/gexfZzl4ZRsAAAAi/maxwell-cat.gif" width="200">
 
 ## Random stuff about me
