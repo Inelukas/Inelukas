@@ -1,6 +1,6 @@
 Web Developer in the Making
 
-<a href="chicken-game-jade.vercel.app">Try out my Chicken Game!</a>
+<a href="https://chicken-game-jade.vercel.app/">Try out my Chicken Game!</a>
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100">
 
