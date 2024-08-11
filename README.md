@@ -1,6 +1,6 @@
 Web Developer in the Making
 
-Try out my <a href="https://chicken-game-jade.vercel.app/">Chicken Game</a> or <a href="https://chicken-game-jade.vercel.app/](https://hangman-lilac-nine.vercel.app/">Hangman!</a>
+Try out my <a href="https://chicken-game-jade.vercel.app/">Chicken Game</a> or <a href="https://hangman-lilac-nine.vercel.app/">Hangman!</a>
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100">
 
